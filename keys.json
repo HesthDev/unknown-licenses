@@ -1,0 +1,16 @@
+[
+  {
+    "key": "ABC-123-XYZ",
+    "owner": "Yusuf",
+    "expire": "2025-12-31",
+    "status": "active",
+    "notes": "Lisans 1"
+  },
+  {
+    "key": "DEF-456-UVW",
+    "owner": "Yusuf",
+    "expire": "2025-06-30",
+    "status": "expired",
+    "notes": "Test key"
+  }
+]

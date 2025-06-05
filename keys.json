@@ -12,5 +12,13 @@
     "expire": "2025-06-30",
     "status": "expired",
     "notes": "Test key"
+  },
+
+    {
+    "key": "cheatglobal",
+    "owner": "CheatGlobal",
+    "expire": "2030-12-31",
+    "status": "active",
+    "notes": "CheatGlobal License"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "key": "ZABC-123-XYZ",  <-- Bunu `encrypt_key("ABC-123-XYZ")` ile oluşturmalısın
+    "key": "ZABC-123-XYZ",
     "owner": "Yusuf",
     "expire": "2025-12-31",
     "status": "active",
